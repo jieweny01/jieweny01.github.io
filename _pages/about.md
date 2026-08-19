@@ -13,14 +13,14 @@ I am a Ph.D. student at **[Your University]**, working in **[Your Lab / Group Na
 My research interests include **end-to-end autonomous driving**, **world models**, **reinforcement learning for planning and control**, and **closed-loop simulation and safety testing**. I am interested in building methods and tools that improve safety, robustness, and evaluation in real-world traffic environments.
 
 
-# 🔥 News
+# 📰 News
 
-- *2026.01*: &nbsp;🎉 One paper is accepted by **[Venue]**.
-- *2025.12*: &nbsp;🎉 A new preprint on **[Paper Title]** is available on [arXiv](https://arxiv.org/).
-- *2025.09*: &nbsp;🎉 Released project code for **[Project Name]** on [GitHub](https://github.com/YOUR_GITHUB_USERNAME).
+- *2026.01*: &nbsp;📄 One paper is accepted by **[Venue]**.
+- *2025.12*: &nbsp;🆕 A new preprint on **[Paper Title]** is available on [arXiv](https://arxiv.org/).
+- *2025.09*: &nbsp;🚀 Released project code for **[Project Name]** on [GitHub](https://github.com/YOUR_GITHUB_USERNAME).
 
 
-# 📝 Publications
+# 📚 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="paper thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -37,13 +37,13 @@ My research interests include **end-to-end autonomous driving**, **world models*
 - [Third Paper Title](https://doi.org/10.XXXX/XXXX), **Your Name**, Coauthor A, Coauthor B, **Conference/Journal 20XX**
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 
 - *20XX.XX* **[Award Name]**, [Organization]
 - *20XX.XX* **[Scholarship or Competition Prize]**
 
 
-# 📖 Educations
+# 🎓 Education
 
 - *20XX.XX - now*, Ph.D. in **[Major]**, **[Your University]**, [City, Country]
 - *20XX.XX - 20XX.XX*, B.S./M.S. in **[Major]**, **[Your University]**, [City, Country]
