@@ -5,9 +5,9 @@
 # Site Settings
 title                    : "Your Name"
 description              : "Ph.D. student researching autonomous driving, world models, and traffic simulation."
-url                      : "https://jiewen-yu.github.io"
+url                      : "https://jieweny01.github.io"
 baseurl                  : ""
-repository               : "jiewen-yu/jiewen-yu.github.io"
+repository               : "jieweny01/jieweny01.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -36,7 +36,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jiewen-yu"
+  github           : "jieweny01"
   google_plus      :
   keybase          :
   instagram        :
