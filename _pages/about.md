@@ -10,7 +10,7 @@ redirect_from:
 
 I am an undergraduate student majoring in **Transportation Engineering** at the **School of Transportation Engineering**, **[Tongji University](https://www.tongji.edu.cn/)**. My research interests lie in **autonomous driving** and **artificial intelligence**, with a focus on decision-making, simulation, and learning-based methods.
 
-My work is primarily focused on **autonomous driving**, with particular emphasis on **end-to-end learning**, **world models**, **reinforcement learning for planning and control**, and **closed-loop traffic simulation and safety testing**. I am passionate about developing learning-based methods and evaluation tools that improve **safety**, **robustness**, and **reliability** in real-world autonomous systems.
+My work is primarily focused on **autonomous driving**, with particular emphasis on **end-to-end learning**, **world models**, **reinforcement learning for planning and control**, and **closed-loop traffic simulation and safety testing**. I am passionate about developing learning-based methods that improve **safety**, **robustness**, and **reliability** in real-world autonomous systems.
 
 
 # 🔥 News
@@ -29,7 +29,6 @@ My work is primarily focused on **autonomous driving**, with particular emphasis
 
 - **Risk Perception Technology Based on World Models** (*Project Leader*, 2025 – 2026): Focused on risk perception in autonomous driving by building a world model with risk-reasoning capability for predicting, identifying, and evaluating latent safety hazards. Contributed across the full pipeline, including generative simulation environment setup, world model design and training, and risk inference module development. **Achievements:** First Prize, 5th Shanghai College Student Transportation Science and Technology Competition; First Prize, National University Intelligent Transportation Competition.
 - **Flight Prediction and Gate Assignment Optimization Based on Transformer and Deep Reinforcement Learning** (*Core Member*, 2024 – 2025): Led training of the core prediction models, including data preprocessing, fine-tuning of a Transformer-based flight delay forecaster, and iterative policy-gradient training for gate assignment optimization. Supported system integration for dynamic flight prediction and intelligent gate allocation. **Achievement:** Silver Award, China International College Student Innovation Competition (2025) – University-level Selection.
-- **Adversarial Game-Theoretic Interactive Model for Autonomous Lane Changing in Campus Intelligent Transport Vehicles** (*Project Leader*, 2023 – 2024): Applied game theory to autonomous driving decision-making by defining the strategy space, refining car-following and lane-changing models, and calibrating the framework in MATLAB to compare pedestrian-interactive utilities under different strategies. **Achievement:** Third Prize (Sprouting Group), 10th Tongji University Innovation & Entrepreneurship Academic Forum.
 
 
 # 💼 Experience
