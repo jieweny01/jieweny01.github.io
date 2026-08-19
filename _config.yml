@@ -3,7 +3,7 @@
 # Restart `jekyll serve` after editing this file.
 
 # Site Settings
-title                    : "Your Name"
+title                    : "Yu-Jiewen"
 description              : "Ph.D. student researching autonomous driving, world models, and traffic simulation."
 url                      : "https://jieweny01.github.io"
 baseurl                  : ""
