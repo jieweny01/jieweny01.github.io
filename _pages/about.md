@@ -45,5 +45,5 @@ My research interests are primarily focused on **autonomous driving**, with part
 
 # 🎓 Education
 
-- *20XX.XX - now*, Ph.D. in **[Major]**, **[Your University]**, [City, Country]
-- *20XX.XX - 20XX.XX*, B.S./M.S. in **[Major]**, **[Your University]**, [City, Country]
+- *20XX.XX - now*, Ph.D. in **[Major]**, **[Your University]**, Shanghai, China
+- *20XX.XX - 20XX.XX*, B.S./M.S. in **[Major]**, **[Your University]**, Shanghai, China
