@@ -3,8 +3,8 @@
 # Restart `jekyll serve` after editing this file.
 
 # Site Settings
-title                    : "Yu-Jiewen"
-description              : "Ph.D. student researching autonomous driving, world models, reinforcement learning, and closed-loop traffic simulation."
+title                    : "Jiewen Yu"
+description              : "Undergraduate student at Tongji University researching autonomous driving, world models, reinforcement learning, and closed-loop traffic simulation."
 url                      : "https://jieweny01.github.io"
 baseurl                  : ""
 repository               : "jieweny01/jieweny01.github.io"
@@ -20,14 +20,14 @@ baidu_site_verification  :
 
 # Site Author (left sidebar)
 author:
-  name             : "Your Name"
+  name             : "Jiewen Yu"
   avatar           : "images/avatar.jpg"
-  bio              : "Ph.D. Student · Autonomous Driving"
+  bio              : "B.E. Candidate · Autonomous Driving"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "Tongji University"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
-  email            : "your.email@university.edu"
+  googlescholar    :
+  email            : "2352661@tongji.edu.cn"
   researchgate     :
   uri              :
   bitbucket        :
