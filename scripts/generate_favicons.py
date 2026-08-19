@@ -2,7 +2,7 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
-OUT = Path(__file__).resolve().parent / "images"
+OUT = Path(__file__).resolve().parent.parent / "images"
 BG = "#1a365d"
 FG = "#ffffff"
 
