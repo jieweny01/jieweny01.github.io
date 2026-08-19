@@ -20,6 +20,11 @@ My work is primarily focused on **autonomous driving**, with particular emphasis
 - *2025*: &nbsp;🎉 Paper on long-horizon vessel trajectory forecasting accepted by **IEEE ITSC 2025** and released as a [preprint](https://arxiv.org/abs/2606.08633).
 
 
+# 📚 Publications
+
+- **Short-Horizon Airport Departure and Arrival Volume Forecasting with Vision-Language Models**, **Jiewen Yu** and collaborators, **TRB Annual Meeting 2026** (Under Review)
+
+
 # 🔬 Research Experience
 
 - **Risk Perception Technology Based on World Models** (*Project Leader*, 2025 – 2026): Focused on risk perception in autonomous driving by building a world model with risk-reasoning capability for predicting, identifying, and evaluating latent safety hazards. Contributed across the full pipeline, including generative simulation environment setup, world model design and training, and risk inference module development. **Achievements:** First Prize, 5th Shanghai College Student Transportation Science and Technology Competition; First Prize, National University Intelligent Transportation Competition.
