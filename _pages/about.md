@@ -50,7 +50,6 @@ My work is primarily focused on **autonomous driving**, with particular emphasis
 # 💼 Experience
 
 - *2026.07 – 2026.08*, **C++ Development Intern**, Shanghai Jida Transportation Technology Co., Ltd. — Used Claude Code and Codex for simulation CLI testing and skill development; built traffic simulation cases (signal control, pedestrian crossing, arterial intersections, and roundabouts) to diagnose issues in TESS NG.
-- *2024.05 – 2025.05*, **Research Assistant**, Zhiling Technology Co., Ltd. — Conducted HMI research on information complexity modeling and dynamic adaptation strategies for intelligent cockpits; contributed to academic writing, science communication articles, data annotation, and industry-standard surveys.
 - *2025.08*, **Participant**, 10th Tongji University School of Transportation Summer School in Singapore — Completed a 6-day academic exchange with visits to NUS, NTU, and the Land Transport Authority (LTA), investigating smart-city mobility and public-transit systems; findings were incorporated into the "Zhixing Cup" research initiative.
 
 
