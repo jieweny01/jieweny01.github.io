@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in **Transportation Engineering** at **[Tongji University](https://www.tongji.edu.cn/)**, School of Transportation Engineering. My work focuses on autonomous driving systems at the intersection of **decision-making**, **simulation**, and **learning-based methods**.
+I am an undergraduate student majoring in **Transportation Engineering** at the **School of Transportation Engineering**, **[Tongji University](https://www.tongji.edu.cn/)**. My research interests lie in **autonomous driving** and **artificial intelligence**, with a focus on decision-making, simulation, and learning-based methods.
 
-My research interests are primarily focused on **autonomous driving**, with particular emphasis on **end-to-end learning**, **world models**, **reinforcement learning for planning and control**, and **closed-loop traffic simulation and safety testing**. I am passionate about developing learning-based methods and evaluation tools that improve **safety**, **robustness**, and **reliability** in real-world autonomous systems.
+My work is primarily focused on **autonomous driving**, with particular emphasis on **end-to-end learning**, **world models**, **reinforcement learning for planning and control**, and **closed-loop traffic simulation and safety testing**. I am passionate about developing learning-based methods and evaluation tools that improve **safety**, **robustness**, and **reliability** in real-world autonomous systems.
 
 
 # 🔥 News
 
-- *2026.07*: &nbsp;🎉 **First Prize** at the National University Intelligent Transportation Competition.
-- *2025.11*: &nbsp;🎉 **First Prize** at the 5th Shanghai College Student Transportation Science and Technology Competition.
+- *2026.07*: &nbsp;🎉 **First Prize** (National), National University Intelligent Transportation Competition.
+- *2025.11*: &nbsp;🎉 **First Prize** (Shanghai), 5th Shanghai College Student Transportation Science and Technology Competition.
+- *2025*: &nbsp;🎉 **Silver Award**, China International College Student Innovation Competition (University-level Selection).
+- *2025*: &nbsp;🎉 *Maritime-R1* accepted by **IEEE ITSC 2025** and released as a preprint.
 - *2025.08*: &nbsp;🎉 Participated in the 10th Tongji University School of Transportation Summer School in Singapore.
-- *2025*: &nbsp;🎉 *Maritime-R1* accepted by **IEEE ITSC 2025**.
 
 
 # 📚 Publications
@@ -30,7 +31,7 @@ My research interests are primarily focused on **autonomous driving**, with part
 
 **Jiewen Yu** and collaborators
 
-**IEEE ITSC 2025** (Accepted)
+**IEEE ITSC 2025** (Accepted; preprint available)
 </div>
 </div>
 
@@ -40,31 +41,39 @@ My research interests are primarily focused on **autonomous driving**, with part
 
 # 🔬 Research Experience
 
-- **Risk Perception Technology Based on World Models** (*Project Leader*, 2025.09 – 2026.08): Built a generative simulation environment and a world-model-based risk inference engine for predicting and evaluating latent safety hazards in autonomous driving, with a focus on out-of-distribution generalization.
-- **Flight Prediction and Gate Assignment Optimization Based on Transformer and Deep Reinforcement Learning** (*Core Member*, 2024.09 – 2025.06): Led data preprocessing, Transformer-based flight delay forecasting, and policy-gradient training for gate assignment optimization.
-- **High-Intervention Scenario Generation and Generalization for Autonomous Driving Simulation Testing Based on CARLA** (*Project Leader*, 2024.09 – 2025.06): Designed a surrogate-model-assisted adaptive MCTS algorithm to generate representative high-risk simulation test cases for closed-loop evaluation.
-- **Adversarial Game-Theoretic Interactive Model for Autonomous Lane Changing in Campus Intelligent Transport Vehicles** (*Project Leader*, 2023.09 – 2024.06): Formulated a non-cooperative game-theoretic framework for autonomous lane-changing and calibrated the model in MATLAB for pedestrian-interactive scenarios.
+- **Risk Perception Technology Based on World Models** (*Project Leader*, 2025 – 2026): Focused on risk perception in autonomous driving by building a world model with risk-reasoning capability for predicting, identifying, and evaluating latent safety hazards. Contributed across the full pipeline, including generative simulation environment setup, world model design and training, and risk inference module development. **Achievements:** First Prize, 5th Shanghai College Student Transportation Science and Technology Competition; First Prize, National University Intelligent Transportation Competition.
+- **Flight Prediction and Gate Assignment Optimization Based on Transformer and Deep Reinforcement Learning** (*Core Member*, 2024 – 2025): Led training of the core prediction models, including data preprocessing, fine-tuning of a Transformer-based flight delay forecaster, and iterative policy-gradient training for gate assignment optimization. Supported system integration for dynamic flight prediction and intelligent gate allocation. **Achievement:** Silver Award, China International College Student Innovation Competition (2025) – University-level Selection.
+- **High-Intervention Scenario Generation and Generalization for Autonomous Driving Simulation Testing Based on CARLA** (*Project Leader*, 2024 – 2025): Designed and implemented a surrogate-model-assisted adaptive Monte Carlo Tree Search algorithm to systematically search and optimize scenario parameters, substantially improving error-intervention rates and generating representative high-intervention simulation test cases.
+- **Adversarial Game-Theoretic Interactive Model for Autonomous Lane Changing in Campus Intelligent Transport Vehicles** (*Project Leader*, 2023 – 2024): Applied game theory to autonomous driving decision-making by defining the strategy space, refining car-following and lane-changing models, and calibrating the framework in MATLAB to compare pedestrian-interactive utilities under different strategies. **Achievement:** Third Prize (Sprouting Group), 10th Tongji University Innovation & Entrepreneurship Academic Forum.
 
 
 # 💼 Experience
 
-- *2026.07 – 2026.08*, **C++ Development Intern**, Shanghai Jida Transportation Technology Co., Ltd. — Simulation CLI testing and traffic case development for TESS NG.
-- *2024.05 – 2025.05*, **Research Assistant**, Zhiling Technology Co., Ltd. — HMI information complexity modeling and dynamic adaptation strategies for intelligent cockpits.
-- *2025.08*, **Participant**, 10th Tongji University School of Transportation Summer School in Singapore — Academic visits to NUS, NTU, and LTA on smart-city mobility.
+- *2026.07 – 2026.08*, **C++ Development Intern**, Shanghai Jida Transportation Technology Co., Ltd. — Used Claude Code and Codex for simulation CLI testing and skill development; built traffic simulation cases (signal control, pedestrian crossing, arterial intersections, and roundabouts) to diagnose issues in TESS NG.
+- *2024.05 – 2025.05*, **Research Assistant**, Zhiling Technology Co., Ltd. — Conducted HMI research on information complexity modeling and dynamic adaptation strategies for intelligent cockpits; contributed to academic writing, science communication articles, data annotation, and industry-standard surveys.
+- *2025.08*, **Participant**, 10th Tongji University School of Transportation Summer School in Singapore — Completed a 6-day academic exchange with visits to NUS, NTU, and the Land Transport Authority (LTA), investigating smart-city mobility and public-transit systems; findings were incorporated into the "Zhixing Cup" research initiative.
 
 
 # 🏆 Honors and Awards
 
-- *2026.07* **First Prize**, National University Intelligent Transportation Competition
-- *2025.11* **First Prize**, 5th Shanghai College Student Transportation Science and Technology Competition
-- *2025* **Silver Award**, China International College Student Innovation Competition (University-level)
-- *2023* **First Prize**, National College English Reading Competition
-- *2023* **First Prize**, 16th "Chia Tai Cup" National College Student Market Survey and Analysis Competition
-- *2024* **Third Prize**, 15th Shanghai College Student Mathematics Competition
-- *2024* **Third Prize (Sprouting Group)**, 10th Tongji University Innovation & Entrepreneurship Academic Forum
-- Tongji University Second-Class Outstanding Academic Scholarship, School Outstanding Student Award, Social Activity Scholarship
+**Competitions**
+- *2026.07* **First Prize** (National), National University Intelligent Transportation Competition
+- *2025.11* **First Prize** (Shanghai), 5th Shanghai College Student Transportation Science and Technology Competition (*Project Leader*)
+- *2025* **Silver Award**, China International College Student Innovation Competition (University-level Selection)
+- *2023* **First Prize** (National), National College English Reading Competition (*Individual*)
+- *2023* **First Prize** (National), 16th "Chia Tai Cup" National College Student Market Survey and Analysis Competition (*Core Member*)
+- *2024* **Third Prize** (Shanghai), 15th Shanghai College Student Mathematics Competition (*Individual*; National College Mathematics Competition Third-Prize Scholarship)
+- *2024* **Third Prize** (Sprouting Group), 10th Tongji University Innovation & Entrepreneurship Academic Forum
+
+**Scholarships & Honors**
+- Tongji University Second-Class Outstanding Academic Scholarship
+- School Outstanding Student Award
+- Tongji University Social Activity Scholarship
 
 
 # 🎓 Education
 
-- *2023.09 – 2027.06 (Expected)*, B.E. in **Transportation Engineering**, **[Tongji University](https://www.tongji.edu.cn/)**, Shanghai, China (GPA: 4.10/5.0)
+- *2023.09 – 2027.06 (Expected)*, B.E. in **Transportation Engineering**, **School of Transportation Engineering**, **[Tongji University](https://www.tongji.edu.cn/)**, Shanghai, China
+  - GPA: **4.10 / 5.0**
+  - Relevant coursework (Grade A): Artificial Intelligence Technology and Application, Introduction to Intelligent Transportation and Vehicles, Automatic Control Theory, Urban Smart Parking, Traffic Statistical Analysis and Modeling, Traffic Simulation Technology
+  - Languages: Chinese (Native); English (CET-4: 617, CET-6: 579); German (Level 4)
