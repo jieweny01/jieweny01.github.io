@@ -22,7 +22,7 @@ def draw_icon(size: int) -> Image.Image:
     img = Image.new("RGB", (size, size), BG)
     draw = ImageDraw.Draw(img)
     font = load_font(max(size // 3, 12))
-    text = "JY"
+    text = "JW"
     bbox = draw.textbbox((0, 0), text, font=font)
     tw, th = bbox[2] - bbox[0], bbox[3] - bbox[1]
     draw.text(((size - tw) / 2 - bbox[0], (size - th) / 2 - bbox[1]), text, fill=FG, font=font)
