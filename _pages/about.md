@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student at **[Your University]**, working in **[Your Lab / Group Name]**. Under the supervision of **[Advisor Name]**, I study autonomous driving systems at the intersection of decision-making, simulation, and learning-based methods.
 
-My research interests include **end-to-end autonomous driving**, **world models**, **reinforcement learning for planning and control**, and **closed-loop simulation and safety testing**. I am interested in building methods and tools that improve safety, robustness, and evaluation in real-world traffic environments.
+My research interests are primarily focused on **autonomous driving**, with particular emphasis on **end-to-end learning**, **world models**, **reinforcement learning for planning and control**, and **closed-loop traffic simulation and safety testing**. I am passionate about developing learning-based methods and evaluation tools that improve **safety**, **robustness**, and **reliability** in real-world autonomous systems.
 
 
 # 🔥 News
@@ -39,8 +39,8 @@ My research interests include **end-to-end autonomous driving**, **world models*
 
 # 🏆 Honors and Awards
 
-- *20XX.XX* **[Award Name]**, [Organization]
-- *20XX.XX* **[Scholarship or Competition Prize]**
+- *2026.07* **First Prize**, National University Intelligent Transportation Competition
+- *2025.11* **First Prize**, Shanghai Traffic Science and Technology Competition
 
 
 # 🎓 Education

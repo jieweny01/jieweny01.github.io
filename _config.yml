@@ -4,7 +4,7 @@
 
 # Site Settings
 title                    : "Yu-Jiewen"
-description              : "Ph.D. student researching autonomous driving, world models, and traffic simulation."
+description              : "Ph.D. student researching autonomous driving, world models, reinforcement learning, and closed-loop traffic simulation."
 url                      : "https://jieweny01.github.io"
 baseurl                  : ""
 repository               : "jieweny01/jieweny01.github.io"
