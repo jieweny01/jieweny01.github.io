@@ -18,9 +18,6 @@ My work is primarily focused on **autonomous driving**, with particular emphasis
 - *2026.07*: &nbsp;🎉 **First Prize** (National), National University Intelligent Transportation Competition.
 - *2025.11*: &nbsp;🎉 **First Prize** (Shanghai), 5th Shanghai College Student Transportation Science and Technology Competition.
 - *2025*: &nbsp;🎉 Paper on long-horizon vessel trajectory forecasting accepted by **IEEE ITSC 2025** and released as a [preprint](https://arxiv.org/abs/2606.08633).
-- *2025.08*: &nbsp;🎉 Participated in the 10th Tongji University School of Transportation Summer School in Singapore.
-
-
 # 📚 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference</div><img src='images/500x300.png' alt="paper thumbnail" width="100%"></div></div>
