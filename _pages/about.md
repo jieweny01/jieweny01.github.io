@@ -13,7 +13,7 @@ I am a Ph.D. student at **[Your University]**, working in **[Your Lab / Group Na
 My research interests include **end-to-end autonomous driving**, **world models**, **reinforcement learning for planning and control**, and **closed-loop simulation and safety testing**. I am interested in building methods and tools that improve safety, robustness, and evaluation in real-world traffic environments.
 
 
-# 📰 News
+# 🔥 News
 
 - *2026.01*: &nbsp;📄 One paper is accepted by **[Venue]**.
 - *2025.12*: &nbsp;🆕 A new preprint on **[Paper Title]** is available on [arXiv](https://arxiv.org/).
