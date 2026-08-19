@@ -73,6 +73,3 @@ My work is primarily focused on **autonomous driving**, with particular emphasis
 # 🎓 Education
 
 - *2023.09 – 2027.06 (Expected)*, B.E. in **Transportation Engineering**, **School of Transportation Engineering**, **[Tongji University](https://www.tongji.edu.cn/)**, Shanghai, China
-  - GPA: **4.10 / 5.0**
-  - Relevant coursework (Grade A): Artificial Intelligence Technology and Application, Introduction to Intelligent Transportation and Vehicles, Automatic Control Theory, Urban Smart Parking, Traffic Statistical Analysis and Modeling, Traffic Simulation Technology
-  - Languages: Chinese (Native); English (CET-4: 617, CET-6: 579); German (Level 4)
