@@ -15,9 +15,9 @@ My research interests include **end-to-end autonomous driving**, **world models*
 
 # 🔥 News
 
-- *2026.01*: &nbsp;📄 One paper is accepted by **[Venue]**.
-- *2025.12*: &nbsp;🆕 A new preprint on **[Paper Title]** is available on [arXiv](https://arxiv.org/).
-- *2025.09*: &nbsp;🚀 Released project code for **[Project Name]** on [GitHub](https://github.com/YOUR_GITHUB_USERNAME).
+- *2026.01*: &nbsp;🎉 One paper is accepted by **[Venue]**.
+- *2025.12*: &nbsp;🎉 A new preprint on **[Paper Title]** is available on [arXiv](https://arxiv.org/).
+- *2025.09*: &nbsp;🎉 Released project code for **[Project Name]** on [GitHub](https://github.com/YOUR_GITHUB_USERNAME).
 
 
 # 📚 Publications
