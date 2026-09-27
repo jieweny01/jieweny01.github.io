@@ -40,6 +40,25 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.publication-list {
+    .pub-item {
+        border-bottom: 1px solid #efefef;
+        padding: 1.1em 0;
+
+        &:last-child {
+            border-bottom: 0;
+        }
+
+        p {
+            margin: 0;
+        }
+
+        p + p {
+            margin-top: 0.35em;
+        }
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

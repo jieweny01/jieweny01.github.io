@@ -29,17 +29,23 @@ My work emphasizes **end-to-end learning**, **reinforcement learning for plannin
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="paper thumbnail" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="publication-list">
+
+<div class="pub-item" markdown="1">
+
+**Short-Horizon Airport Departure and Arrival Volume Forecasting with Vision–Language Models**
+
+**Transportation Research Board (TRB) Annual Meeting 2027** (Accepted)
+</div>
+
+<div class="pub-item" markdown="1">
 
 [**Towards Long-Horizon Vessel Trajectory and Destination Forecasting with Reasoning Large Language Models**](https://arxiv.org/abs/2606.08633)
 
 **IEEE ITSC 2026**, Naples, Italy (Accepted; [preprint](https://arxiv.org/abs/2606.08633) available)
 </div>
-</div>
 
-- **Short-Horizon Airport Departure and Arrival Volume Forecasting with Vision–Language Models**  
-  **Transportation Research Board (TRB) Annual Meeting 2027** (Accepted)
+</div>
 
 
 # Research
@@ -50,30 +56,37 @@ My research sits at the intersection of **autonomous driving**, **world models**
 2. **Planning-Oriented End-to-End Autonomy** — connecting perception, prediction, and planning under a unified decision objective  
 3. **Closed-Loop Simulation & Safety Testing** — co-simulation, reactive evaluation, and risk-aware validation
 
-**Ongoing work**
+### Ongoing Work
 
 - **Undergraduate thesis** (*in progress*): *Joint Simulation Methods for Traffic World Models Oriented Toward Autonomous Driving Testing* — a **co-simulation** framework linking traffic world models with simulation environments for autonomous driving testing.
 
-[More details →](/research/)
+<p><a href="/research/">More details →</a></p>
 
 
 # Experience
 
+### Research Projects
+
 - **Risk Perception Technology Based on World Models** (*Project Leader*, 2025 – 2026): Focused on risk perception in autonomous driving by building a world model with risk-reasoning capability for predicting, identifying, and evaluating latent safety hazards. Contributed across the full pipeline, including generative simulation environment setup, world model design and training, and risk inference module development. **Achievements:** First Prize, 5th Shanghai College Student Transportation Science and Technology Competition; First Prize, National University Intelligent Transportation Competition.
+
+### Internships & Activities
+
 - *2026.07*, **C++ Development Intern**, Shanghai Jida Transportation Technology Co., Ltd. — Used Claude Code and Codex for simulation CLI testing and skill development; built traffic simulation cases (signal control, pedestrian crossing, arterial intersections, and roundabouts) to diagnose issues in TESS NG.
 - *2025.08*, **Participant**, 10th Tongji University School of Transportation Summer School in Singapore — Completed a 6-day academic exchange with visits to NUS, NTU, and the Land Transport Authority (LTA), investigating smart-city mobility and public-transit systems; findings were incorporated into the "Zhixing Cup" research initiative.
 
 
 # Honors and Awards
 
-**Competitions**
+### Competitions
+
 - *2026.07* **First Prize** (National), National University Intelligent Transportation Competition
 - *2025.11* **First Prize** (Shanghai), 5th Shanghai College Student Transportation Science and Technology Competition (*Project Leader*)
 - *2023* **First Prize** (National), National College English Reading Competition (*Individual*)
 - *2023* **First Prize** (National), 16th "Chia Tai Cup" National College Student Market Survey and Analysis Competition (*Core Member*)
 - *2024* **Third Prize** (Shanghai), 15th Shanghai College Student Mathematics Competition (*Individual*; National College Mathematics Competition Third-Prize Scholarship)
 
-**Scholarships & Honors**
+### Scholarships & Honors
+
 - Tongji University Second-Class Outstanding Academic Scholarship
 - **Outstanding Student**, School of Transportation Engineering, Tongji University
 - Tongji University Social Activity Scholarship
