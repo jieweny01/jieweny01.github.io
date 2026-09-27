@@ -60,8 +60,6 @@ My research sits at the intersection of **autonomous driving**, **world models**
 
 - **Undergraduate thesis** (*in progress*): *Joint Simulation Methods for Traffic World Models Oriented Toward Autonomous Driving Testing* — a **co-simulation** framework linking traffic world models with simulation environments for autonomous driving testing.
 
-<p><a href="/research/">More details →</a></p>
-
 
 # Experience
 
