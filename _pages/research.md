@@ -50,7 +50,7 @@ Reliable deployment requires evaluation beyond open-loop ADE/FDE. I work on **tr
 
 **Selected publications**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted</div><img src='/images/papers/trb-airport-vlm-roadmap.png' alt="TRB Figure 1: overall route comparison" width="100%"><img src='/images/papers/trb-airport-vlm-reghead.png' alt="TRB Figure 2: Reg-Head internal structure" width="100%" style="margin-top: 1em;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted</div>{% include paper-figure-switcher.html fig1_src="/images/papers/trb-airport-vlm-roadmap.png" fig1_alt="Figure 1: overall route comparison" fig2_src="/images/papers/trb-airport-vlm-reghead.png" fig2_alt="Figure 2: Reg-Head internal structure" fig1_label="Fig. 1" fig2_label="Fig. 2" %}</div></div>
 <div class='paper-box-text' markdown="1">
 
 **Short-Horizon Airport Departure and Arrival Volume Forecasting with Vision–Language Models**
