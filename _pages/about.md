@@ -78,10 +78,10 @@ My research sits at the intersection of **autonomous driving**, **world models**
 ### Competitions
 
 - *2026.07* **First Prize** (National), National University Intelligent Transportation Competition
+- *2026.05* **First Prize** (National), 16th "Chia Tai Cup" National College Student Market Survey and Analysis Competition (*Core Member*)
 - *2025.11* **First Prize** (Shanghai), 5th Shanghai College Student Transportation Science and Technology Competition (*Project Leader*)
 - *2023* **First Prize** (National), National College English Reading Competition (*Individual*)
-- *2023* **First Prize** (National), 16th "Chia Tai Cup" National College Student Market Survey and Analysis Competition (*Core Member*)
-- *2024* **Third Prize** (Shanghai), 15th Shanghai College Student Mathematics Competition (*Individual*; National College Mathematics Competition Third-Prize Scholarship)
+- *2023* **Third Prize** (Shanghai), 15th Shanghai College Student Mathematics Competition (*Individual*; National College Mathematics Competition Third-Prize Scholarship)
 
 ### Scholarships & Honors
 
