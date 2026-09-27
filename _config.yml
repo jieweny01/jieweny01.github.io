@@ -4,7 +4,7 @@
 
 # Site Settings
 title                    : "Jiewen Yu"
-description              : "Undergraduate student at Tongji University researching autonomous driving, artificial intelligence, world models, and closed-loop traffic simulation."
+description              : "Final-year undergraduate at Tongji University and incoming Ph.D. student researching world models for driving, planning-oriented end-to-end autonomy, and closed-loop simulation-based testing."
 url                      : "https://jieweny01.github.io"
 baseurl                  : ""
 repository               : "jieweny01/jieweny01.github.io"
@@ -22,7 +22,7 @@ baidu_site_verification  :
 author:
   name             : "Jiewen Yu"
   avatar           : "images/avatar.jpg"
-  bio              : "B.E. Candidate · Autonomous Driving & AI"
+  bio              : "Incoming Ph.D. Student · Autonomous Driving & AI"
   location         : "Shanghai, China"
   employer         : "Tongji University"
   pubmed           :
