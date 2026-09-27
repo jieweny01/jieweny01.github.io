@@ -33,15 +33,13 @@ End-to-end driving is moving from pure trajectory imitation toward **action sele
 
 **Selected publications**
 
-<div class="publication-list">
-
-<div class="pub-item" markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted</div><img src='/images/papers/itsc-vessel-roadmap.png' alt="ITSC paper technical roadmap" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [**Towards Long-Horizon Vessel Trajectory and Destination Forecasting with Reasoning Large Language Models**](https://arxiv.org/abs/2606.08633)
 
 **IEEE ITSC 2026**, Naples, Italy (Accepted; [preprint](https://arxiv.org/abs/2606.08633) available)
 </div>
-
 </div>
 
 ---
@@ -52,15 +50,13 @@ Reliable deployment requires evaluation beyond open-loop ADE/FDE. I work on **tr
 
 **Selected publications**
 
-<div class="publication-list">
-
-<div class="pub-item" markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted</div><img src='/images/papers/trb-airport-vlm-roadmap.png' alt="TRB paper technical roadmap" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Short-Horizon Airport Departure and Arrival Volume Forecasting with Vision–Language Models**
 
 **Transportation Research Board (TRB) Annual Meeting 2027** (Accepted)
 </div>
-
 </div>
 
 **Related experience**
