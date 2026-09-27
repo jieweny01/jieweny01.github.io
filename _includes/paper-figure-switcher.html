@@ -4,6 +4,7 @@
     <button type="button" class="paper-figure-tab" role="tab" aria-selected="false" data-fig-src="{{ include.fig2_src }}" data-fig-alt="{{ include.fig2_alt }}">{{ include.fig2_label | default: "Fig. 2" }}</button>
   </div>
   <div class="paper-figure-panels">
+    {% if include.badge %}<div class="badge">{{ include.badge }}</div>{% endif %}
     <img class="paper-figure-img" src="{{ include.fig1_src }}" alt="{{ include.fig1_alt }}" width="100%">
   </div>
 </div>

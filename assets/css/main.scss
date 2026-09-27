@@ -87,7 +87,15 @@
     }
 
     .paper-figure-panels {
+        position: relative;
         width: 100%;
+
+        .badge {
+            top: 0.5em;
+            left: 0;
+            margin: 0;
+            z-index: 1;
+        }
     }
 
     .paper-figure-img {
@@ -169,4 +177,8 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+.paper-box-image > div {
+    position: relative;
 }
