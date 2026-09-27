@@ -1,10 +1,9 @@
 <div class="paper-figure-switcher">
   <div class="paper-figure-tabs" role="tablist" aria-label="Paper figures">
-    <button type="button" class="paper-figure-tab is-active" role="tab" aria-selected="true" data-fig-index="0">{{ include.fig1_label | default: "Fig. 1" }}</button>
-    <button type="button" class="paper-figure-tab" role="tab" aria-selected="false" data-fig-index="1">{{ include.fig2_label | default: "Fig. 2" }}</button>
+    <button type="button" class="paper-figure-tab is-active" role="tab" aria-selected="true" data-fig-src="{{ include.fig1_src }}" data-fig-alt="{{ include.fig1_alt }}">{{ include.fig1_label | default: "Fig. 1" }}</button>
+    <button type="button" class="paper-figure-tab" role="tab" aria-selected="false" data-fig-src="{{ include.fig2_src }}" data-fig-alt="{{ include.fig2_alt }}">{{ include.fig2_label | default: "Fig. 2" }}</button>
   </div>
   <div class="paper-figure-panels">
-    <img class="is-active" src="{{ include.fig1_src }}" alt="{{ include.fig1_alt }}" width="100%">
-    <img src="{{ include.fig2_src }}" alt="{{ include.fig2_alt }}" width="100%">
+    <img class="paper-figure-img" src="{{ include.fig1_src }}" alt="{{ include.fig1_alt }}" width="100%">
   </div>
 </div>

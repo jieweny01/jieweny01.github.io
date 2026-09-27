@@ -2,20 +2,18 @@
 document.addEventListener('DOMContentLoaded', function () {
   document.querySelectorAll('.paper-figure-switcher').forEach(function (switcher) {
     var tabs = switcher.querySelectorAll('.paper-figure-tab');
-    var imgs = switcher.querySelectorAll('.paper-figure-panels img');
+    var img = switcher.querySelector('.paper-figure-img');
 
-    tabs.forEach(function (tab, index) {
+    tabs.forEach(function (tab) {
       tab.addEventListener('click', function () {
         tabs.forEach(function (t) {
           t.classList.remove('is-active');
           t.setAttribute('aria-selected', 'false');
         });
-        imgs.forEach(function (img) {
-          img.classList.remove('is-active');
-        });
         tab.classList.add('is-active');
         tab.setAttribute('aria-selected', 'true');
-        imgs[index].classList.add('is-active');
+        img.src = tab.getAttribute('data-fig-src');
+        img.alt = tab.getAttribute('data-fig-alt');
       });
     });
   });
